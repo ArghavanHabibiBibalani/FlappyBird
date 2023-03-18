@@ -5,7 +5,7 @@ using UnityEngine;
 public class BirdScript : MonoBehaviour
 {
     /// <summary>
-    /// This is the bird script.
+    /// This is the bird script!
     /// </summary>
 
     public Rigidbody2D myRigidBody;
